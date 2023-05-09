@@ -1,0 +1,44 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500&family=Poppins:wght@200;300;400;500;600;700;800&family=Raleway:wght@500;600;700&display=swap');
+
+*{
+    font-family: 'Raleway', sans-serif;
+}
+  #container{
+    background-image: url(rainbow-coloured-hand-painted-watercolour-background-free-vector.jpg);
+    height:100vh;
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+   
+}
+a{
+    text-decoration: none;
+    color:black;
+    margin-right: 2rem;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 500;
+}
+
+.img2{
+    width:25rem;
+    height:auto;
+    border:6px solid red;
+    margin-right:5%;
+}
+.img1{
+    width:7rem;
+    height:7rem;
+}
+
+#sub-contain{
+    display: flex;
+    margin:5rem auto;
+    justify-content: space-between;
+
+}
+
+.selection{
+    width:8rem;
+}
